@@ -1,6 +1,6 @@
 <!--배너-->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Open%20SDI%20Community&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Defined%20Infrastructure%20for%20Future%20Mobility&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=290&section=header&text=Open%20SDI%20Community&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Defined%20Infrastructure%20for%20Future%20Mobility&descAlignY=54&descAlign=62"/>
 </p>
 
 <!--본문-->
